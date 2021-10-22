@@ -1,2 +1,9 @@
 # EKS-Connect
-coneccion a eks
+Connect to EKS Cluster
+
+## Open in GitPod
+
+```bash
+chmod +x install.sh
+./install.sh
+```
